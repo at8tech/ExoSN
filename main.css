@@ -5,11 +5,12 @@ body {
     background-color: #ffeaba;
     color: #333;
     text-align: center;
+    width: 100%;
 }
 
 a {
     display: inline-block;
-    margin: 0 10px; 
+    margin: 10px;
     text-decoration: none;
     color: #4B9CD3;
 }
