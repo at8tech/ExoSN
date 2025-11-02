@@ -1,54 +1,41 @@
-# 📘 ExoSN
+📘 ExoSN
 
-**ExoSN** est un site web éducatif qui regroupe des **séries d’exercices** **Maths**, **PC (Physique-Chimie)** et **SVT**, basés sur le **programme sénégalais**.  
-Le but du projet est d’aider les élèves à **réviser plus facilement** et à **accéder rapidement** aux ressources scolaires en ligne.
+ExoSN est un site web éducatif qui regroupe des séries d’exercices en Maths, Physique-Chimie (PC) et SVT, basées sur le programme sénégalais.
+L’objectif est d’aider les élèves à réviser facilement et à accéder rapidement aux ressources scolaires.
 
----
+🚀 Fonctionnalités
 
-## 🚀 Fonctionnalités principales
+📚 Séries d’exercices téléchargeables
 
-- 📚 Séries d’exercices téléchargeables par matière et par chapitre  
-- 🧠 Organisation claire selon les classes (6e → Terminale)  
-- 🔍 Interface simple et facile à utiliser  
-- 🌐 Accès libre et gratuit pour tous les élèves
-  
----
+🧠 Organisation par matière et par niveau (6e → Terminale)
 
-## 🏗️ Technologies utilisées
+🔍 Interface simple et intuitive
 
-- **HTML5** – structure du site  
-- **CSS3** – design et mise en page  
-- **JavaScript** – interactivité de base  
-- *(Prochainement : ajout de PHP et base de données pour la gestion des fichiers)*
-- **NB : Pour CSS, JS et PHP je suis en cour d'apprentissage donc n'hesitez pas à m'interpeler si nécéssaire**
+🌐 Accès libre et gratuit
 
+🏗️ Technologies utilisées
 
----
+HTML5 – structure du site
 
-## 💡 Objectif du projet
+CSS3 – design et mise en pages
 
-Créer une **plateforme éducative 100% sénégalaise** où les élèves peuvent trouver rapidement :
-- Les **exercices approfondies**
-- Les **series** en PDF
-- Et à terme, une **zone d’évaluation en ligne**
+JavaScript – interactivité
 
----
+💡 Je suis actuellement en apprentissage de CSS et JS.
 
-## 👨🏾‍💻 Auteur
+💡 Objectif
 
-**Aliou Thiam**  
-📍 Sénégal, Dakar 
-💬 Passionné par la tech, la cyber, l'apprentissage et le développement web.  
-🖇️ *Projet étudiant et communautaire.*
+Créer une plateforme éducative sénégalaise où les élèves peuvent trouver :
 
----
+Des exercices approfondis
 
-## 🛠️ Comment contribuer
+Des séries en PDF
 
-1. **Fork** le dépôt  
-2. Crée une nouvelle branche :  
-   ```bash
-   git checkout -b feature/ma-fonction
+Et bientôt, une zone d’évaluation en ligne
 
+👨🏾‍💻 Auteur
 
-
+Aliou Thiam
+📍 Sénégal – Dakar
+💬 Passionné de tech, cybersécurité et développement web.
+🖇️ Projet étudiant et communautaire.
