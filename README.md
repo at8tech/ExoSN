@@ -21,7 +21,6 @@ CSS3 – design et mise en pages
 
 JavaScript – interactivité
 
-💡 Je suis actuellement en apprentissage de CSS et JS.
 
 💡 Objectif
 
@@ -37,5 +36,4 @@ Et bientôt, une zone d’évaluation en ligne
 
 Aliou Thiam
 📍 Sénégal – Dakar
-💬 Passionné de tech, cybersécurité et développement web.
-🖇️ Projet étudiant et communautaire.
+💬 Passionné de tech, d'IA, de cybersécurité et développement web.
