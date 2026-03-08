@@ -25,16 +25,6 @@ The main aim of this project is to create an educational platform tailored to th
 - PDF resources for practice  
 - Future plans for online assessment features :contentReference[oaicite:4]{index=4}
 
-## 📁 Project Structure
-
-```text
-├── index.html
-├── main.css
-├── logo.png
-├── MATHS/
-├── PC/
-└── SVT/
 
 
-
-PEACE
+PEACE 
