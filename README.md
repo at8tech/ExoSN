@@ -34,3 +34,7 @@ The main aim of this project is to create an educational platform tailored to th
 ├── MATHS/
 ├── PC/
 └── SVT/
+
+
+
+PEACE
